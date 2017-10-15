@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://172.104.81.227:3306/bonus?useUnicode=true&characterEncoding=utf8&autoReconnect=true
+    username: bonus
+    password: pa33w0rd.1
+
+mybatis:
+  type-aliases-package: com.huilianjk.bonus.pojo
+  config-location: classpath:mybatis.xml
