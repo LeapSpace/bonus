@@ -1,0 +1,1 @@
+count bonus click num
